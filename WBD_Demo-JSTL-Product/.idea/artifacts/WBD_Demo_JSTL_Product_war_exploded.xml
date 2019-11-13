@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WBD_Demo-JSTL-Product:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WBD_Demo_JSTL_Product_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WBD_Demo-JSTL-Product/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WBD_Demo-JSTL-Product" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="taglibs-standard-impl-1.2.5" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
